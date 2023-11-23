@@ -1,5 +1,7 @@
 # Netflix Clone Project
 
+![Netflix Clone](https://github.com/Kicks11jr/netflix-clone/assets/121013826/e0f9dbe1-5725-46cc-aff4-d9b8683f4b5a)
+
 ## Introduction
 
 Bienvenue dans le monde du Netflix Clone, un projet qui m'a permis de m'entrainer à utiliser de nouvelles technologies et d'élargir mes compétences. Ce projet vise à reproduire l'expérience proposer par Netflix.
