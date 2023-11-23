@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Netflix Clone Project
 
-## Getting Started
+## Introduction
 
-First, run the development server:
+Bienvenue dans le monde du Netflix Clone, un projet qui m'a permis de m'entrainer à utiliser de nouvelles technologies et d'élargir mes compétences. Ce projet vise à reproduire l'expérience proposer par Netflix.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Stack Technologique 🚀
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Frontend
+  - **Next.js:** Pour une expérience de développement moderne et optimisée.
+  - **React:** Pour la construction d'interfaces utilisateur réactives et dynamiques.
+  - **Tailwind.css:** Pour un stylisme élégant et facile à maintenir.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Backend
+  - **Prisma:** Pour la modélisation de la base de données et l'accès aux données.
+  - **Next-Auth:** Pour l'implémentation simple et sécurisée de l'authentification.
+  - **Supabase:** Pour la gestion de la base de données en temps réel et sans serveur.
+  - **Nodemailer:** Pour la gestion des e-mails, une touche professionnelle pour l'expérience utilisateur.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Documentation Utile 📚
 
-## Learn More
+- [Set up Google OAuth with Next.js using Next-Auth](https://youtu.be/ot9yuKg15iA?feature=shared)
+- [Resend SMTP Service](https://resend.com/changelog/smtp-service)
+- [shadcn/ui](https://ui.shadcn.com/docs/installation/next)
+- [NextAuth.js](https://next-auth.js.org/getting-started/example)
+- [Google Provider](https://next-auth.js.org/providers/google)
+- [Prisma Adapter](https://authjs.dev/reference/adapter/prisma)
+- [Prisma](https://www.prisma.io/docs/concepts/components/prisma-schema)
+- [Troubleshooting with Next.js and Prisma](https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/nextjs-prisma-client-dev-practices)
 
-To learn more about Next.js, take a look at the following resources:
+## Fonctionnalités Clés 🌟
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Authentification Multiple
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Connection avec GitHub, e-mail ou Google.
 
-## Deploy on Vercel
+### Intégration de Supabase
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Utilisation de Supabase pour une gestion efficace de la base de données en temps réel.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### UI Dynamique avec shadcn/ui
+
+- Intégration de shadcn/ui pour des interfaces utilisateur dynamiques et esthétiques, améliorant l'aspect visuel du projet.
+
+### Gestion des E-mails avec Nodemailer
+
+- Utilisation de Nodemailer pour ajouter un plus à l'expérience utilisateur.
+
+### Ajout et Suppression de Films
+
+- Possibilité d'ajouter et supprimer des films dans une watchlist personnalisée.
+
+### Détails des Films et Séries
+
+- Possibilité de voir des informations complémentaires de chaque film ou série.
+
