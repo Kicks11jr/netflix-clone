@@ -56,3 +56,9 @@ Bienvenue dans le monde du Netflix Clone, un projet qui m'a permis de m'entraine
 
 - Possibilité de voir des informations complémentaires de chaque film ou série.
 
+## Preview
+
+<div style="display: flex; space-between;">
+  <img alt="Mobile View GIF" src="https://github.com/Kicks11jr/netflix-clone/assets/121013826/d3658bed-79f4-4467-9f7e-ab4ef6d6667d"/>
+  <img alt="Desktop View GIF" src="https://github.com/Kicks11jr/netflix-clone/assets/121013826/02ceacef-ba18-4a7a-8b9d-b4cbdee136b3"/>
+</div>
